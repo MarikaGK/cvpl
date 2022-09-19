@@ -1,0 +1,182 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #f5f7fa;
+  padding: 40px;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+aside {
+  background: #1e3938;
+  width: 370px;
+}
+
+.cvphoto {
+  margin-top: 40px;
+}
+
+.header-secondary {
+  color: #ffffff;
+}
+
+aside a {
+  color: #ffffff;
+  opacity: 0.5;
+  padding: 26px;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+aside p {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+aside ul {
+  color: #fb3a3a;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 0;
+  margin-left: 0;
+  list-style-position: inside;
+}
+
+aside ul.span {
+  color: #fb3a3a;
+}
+
+aside ul.span span {
+  color: #ffffff;
+}
+
+.contact-block {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+
+.tech-skills-block {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+
+.soft-skills-block {
+  margin-top: 44px;
+  margin-left: 40px;
+}
+
+main {
+  padding: 102px 88px 102px 88px;
+}
+
+.main-description {
+  width: 600px;
+  margin-bottom: 40px;
+}
+
+.job-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+h1 {
+  font-size: 45px;
+  line-height: 55px;
+}
+
+.projects-block {
+  width: 485px;
+  margin-bottom: 51px;
+}
+
+.list-primary {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration-line: none;
+  padding-left: 0;
+  list-style-position: inside;
+  color: #000000;
+}
+
+.list-primary-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: 595959;
+}
+
+.header-primary {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 12px;
+  color: #000000;
+}
+
+.job-name {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 20px;
+
+  color: #000000;
+}
+
+.highlight {
+  color: #fb6d3a;
+}
+
+.job-date {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+
+.black {
+  color: black;
+}
+
+a {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration-line: underline;
+  color: #595959;
+}
+
+p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+main ul {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  padding-left: 20px;
+  margin-bottom: 4px;
+}
+
+.education-highlight {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+}
